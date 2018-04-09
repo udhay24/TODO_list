@@ -125,7 +125,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="@string/add_button"
+        android:text="Click Here to continue"
         style="@style/TextAppearance.AppCompat.Large"
         android:textColor="@android:color/primary_text_dark"
         android:background="@color/colorPrimary"
